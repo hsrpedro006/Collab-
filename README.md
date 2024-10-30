@@ -14,4 +14,4 @@ Bem-vindo ao repositório de códigos para Data Science utilizando Python no Goo
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/data-science-colab.git
+   git clone https://github.com/hsrpedro006/collab-.git
